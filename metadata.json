@@ -1,0 +1,5 @@
+{
+  "name": "Lista de Tareas Interactiva",
+  "description": "Una aplicación moderna para gestionar tus tareas pendientes con un carrusel interactivo para visualizar las tareas no completadas.",
+  "requestFramePermissions": []
+}
